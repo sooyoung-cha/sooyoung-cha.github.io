@@ -5,7 +5,7 @@
 
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Sooyoung Cha'
-baseURL: 'https://sooyoung.cha/' # Website URL
+baseURL: 'https://sooyoung-cha.github.io//' # Website URL
 
 ############################
 ## LANGUAGE
