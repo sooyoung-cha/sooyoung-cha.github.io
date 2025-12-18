@@ -5,11 +5,14 @@
 
 main:
   - name: Home
-    url: /
+    url: '#about'
     weight: 10
-  - name: Blog
-    url: blog/
+  - name: Education
+    url: #section-experience'
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Publications
+    url: '#section-collection'
     weight: 30
+  - name: Contact
+    url: '#contact'
+    weight: 60
